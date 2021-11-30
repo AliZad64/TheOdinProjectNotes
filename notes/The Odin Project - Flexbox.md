@@ -40,6 +40,7 @@
     * flex-end: Lines the items up at the end of the container
     * center: Lines the items up at the center of the container
     * space-between: Takes all the container's space and shares it evenly between the items, leaving an equal amount of space between the items.
+    
     ![flexbox space-between](./images/flexbox-img-three.png)
     * space-around: Gives equal amount of space between the left and right of each item, though the end items will have half-size space.
     ![flexbox space-around](./images/flexbox-img-two.png)
